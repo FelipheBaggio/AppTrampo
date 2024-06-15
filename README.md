@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Aplicativo Trampo #v1.0 🚀
+	Aplicativo Trampo #v1.0 💻
 </h1>
 
 <p align="center">
